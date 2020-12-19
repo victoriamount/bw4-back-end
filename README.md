@@ -1,3 +1,5 @@
-African Marketplace Back-End 
+# African Marketplace Back-End 
 
-To start, npm install
+# To start:
+npm install
+npm run server
